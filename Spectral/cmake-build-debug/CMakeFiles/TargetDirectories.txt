@@ -1,0 +1,3 @@
+/Users/poyrazbel/CLionProjects/Spectral/cmake-build-debug/CMakeFiles/Spectral.dir
+/Users/poyrazbel/CLionProjects/Spectral/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/poyrazbel/CLionProjects/Spectral/cmake-build-debug/CMakeFiles/rebuild_cache.dir
